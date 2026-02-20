@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ashrafi"
+rootProject.name = "YOURAPPNAME"
 include(":app")
