@@ -1,4 +1,4 @@
-package com.ashrafi
+package com.YOUR APP NAME
 
 import android.annotation.SuppressLint
 import android.content.Intent
@@ -52,8 +52,8 @@ class MainActivity : ComponentActivity() {
     private val _isNetworkAvailable = mutableStateOf(false)
 
     companion object {
-        private const val SITE_HOST = "ashrafimobl.com"
-        private const val HOME_URL = "https://ashrafimobl.com"
+        private const val SITE_HOST = "YOURSITE.COM"
+        private const val HOME_URL = "HTTPS://YOURSITE.com"
         private const val RETRY_INTERVAL_SECONDS = 30
         private const val DOUBLE_BACK_EXIT_TIME = 2000L
         private const val MAX_PREFETCH_LINKS = 6
