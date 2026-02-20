@@ -5,12 +5,12 @@ plugins {
 }
 
 android {
-    namespace = "com.ashrafi"
+    namespace = "com.Your app name"
     //noinspection GradleDependency
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.ashrafi"
+        applicationId = "com.YOURAPPNAME"
         minSdk = 24
         //noinspection OldTargetApi
         targetSdk = 34
