@@ -94,7 +94,8 @@ res/mipmap
 
 نام اپ در فایل:
 
-res/values/strings.xml
+setting.gradle.kt
+main/build-gradle.kt
 
 لوگو در:
 
